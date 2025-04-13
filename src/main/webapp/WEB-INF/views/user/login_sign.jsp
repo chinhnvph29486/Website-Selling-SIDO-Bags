@@ -180,7 +180,7 @@
     <div class="toggle-container">
         <div class="toggle">
             <div class="toggle-panel toggle-left">
-                <h1>Xin chào đến với SIXDO!</h1>
+                <h1>Xin chào đến với SIDO!</h1>
                 <p>Nhập thông tin cá nhân của bạn để sử dụng tất cả các tính năng của trang web</p>
                 <button class="hidden" id="login">Đăng Nhập</button>
             </div>

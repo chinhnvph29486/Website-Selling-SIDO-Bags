@@ -1050,7 +1050,7 @@
 
         <!-- Nút quét mã -->
         <button class="scan-button" onclick="toggleQRContainer()" style="background: transparent; border: none;">
-            <i class="bi bi-qr-code-scan" style="font-size: 24px; color: white;"></i>
+<%--            <i class="bi bi-qr-code-scan" style="font-size: 24px; color: white;"></i>--%>
         </button>
 
         <%--        thêm sản phẩm--%>

@@ -865,7 +865,7 @@
         <div class="chart" id="chart-2-container">
             <h3 class="chart-title">Doanh thu theo tháng của năm
                 <select id="selectYear">
-                    <option value="2024" selected>2024</option> <!-- Năm hiện tại là mặc định -->
+                    <option value="2024" selected>2025</option> <!-- Năm hiện tại là mặc định -->
                 </select>
             </h3>
             <canvas id="chart-2"></canvas>
@@ -1313,7 +1313,7 @@
 
 
     function doanhThuTheoThang() {
-        $.get('/thong-ke/theo-nam?year=2024', function (data) {
+        $.get('/thong-ke/theo-nam?year=2025', function (data) {
             var labels = [];
             var doanhThuTheoThang = [];
 
